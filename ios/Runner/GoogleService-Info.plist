@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>850396075970-1828iur01mt163lh8qnnu4ohhhrt0rnh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.850396075970-1828iur01mt163lh8qnnu4ohhhrt0rnh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>850396075970-hs2qtgdcas9pqnmqi8kl4fla8atpsfba.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCdyNzM7-xsMJBdH8Ye63DtT1ffwF6W6u4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>850396075970</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.womensaftey</string>
+	<key>PROJECT_ID</key>
+	<string>womensaftey-91b2c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>womensaftey-91b2c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:850396075970:ios:fe886718c63bb6151e285b</string>
+</dict>
+</plist>

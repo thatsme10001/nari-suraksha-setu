@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "850396075970",
+    "project_id": "womensaftey-91b2c",
+    "storage_bucket": "womensaftey-91b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850396075970:android:81a4f3fa946008ad1e285b",
+        "android_client_info": {
+          "package_name": "com.mycompany.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850396075970-r5s276uo3ihptgsn4tqg336scrppj5l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFF2fKT5LTBhPr1YF1kR3_EuiyIMvncAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850396075970-r5s276uo3ihptgsn4tqg336scrppj5l5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850396075970-1828iur01mt163lh8qnnu4ohhhrt0rnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.womensaftey"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850396075970:android:350f0c5471db16c71e285b",
+        "android_client_info": {
+          "package_name": "com.mycompany.women"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850396075970-r5s276uo3ihptgsn4tqg336scrppj5l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFF2fKT5LTBhPr1YF1kR3_EuiyIMvncAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850396075970-r5s276uo3ihptgsn4tqg336scrppj5l5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850396075970-1828iur01mt163lh8qnnu4ohhhrt0rnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.womensaftey"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850396075970:android:8f747529206b13f71e285b",
+        "android_client_info": {
+          "package_name": "com.mycompany.womensaftey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850396075970-hs2qtgdcas9pqnmqi8kl4fla8atpsfba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.womensaftey",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "850396075970-r5s276uo3ihptgsn4tqg336scrppj5l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFF2fKT5LTBhPr1YF1kR3_EuiyIMvncAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850396075970-r5s276uo3ihptgsn4tqg336scrppj5l5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850396075970-1828iur01mt163lh8qnnu4ohhhrt0rnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.womensaftey"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
